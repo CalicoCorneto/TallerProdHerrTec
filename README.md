@@ -16,9 +16,9 @@ Este proyecto es una aplicación web desarrollada para erradicar la problemátic
 
 ### Gestión del Proyecto
 
-El análisis, planeación, estimación de tiempos y categorización de tareas se gestiona mediante metodologías ágiles en Trello (Tablero Kanban).
+El análisis, planeación, estimación de tiempos y categorización de tareas se gestiona mediante metodologías ágiles en tablero Kanban.
 
-🔗 **[CLIC AQUÍ PARA VER EL TABLERO DE TRELLO]()**
+🔗 **[CLIC AQUÍ PARA VER EL TABLERO KANBAN](https://github.com/users/CalicoCorneto/projects/1/views/1)**
 
 El proyecto se divide en cuatro hitos (Milestones) principales para definir la madurez del producto:
 * **Cliente / Frontend (Vista):** Navegador Web Chrome ejecutando HTML5, CSS y Bootstrap. Garantiza que la interfaz sea ligera y rápida para la computadora de recepción.
