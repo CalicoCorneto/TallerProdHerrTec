@@ -1,0 +1,11 @@
+language: java
+jdk:
+  - openjdk17
+
+branches:
+  only:
+    - main 
+    - develop
+
+script:
+  - mvn test
